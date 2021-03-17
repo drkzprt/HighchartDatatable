@@ -1,0 +1,13 @@
+body{
+    background: white;
+}
+
+header{
+    background: #47475c;
+}
+
+.container-graph{
+    min-width: 320px; 
+    height: 400px; 
+    margin: 0 auto;
+}
