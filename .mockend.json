@@ -1,30 +1,32 @@
-[
-  {
-    "nom_prod": "zapatillas",
-    "stock": 10
-  },
-  {
-    "nom_prod": "remeras",
-    "stock": 20
-  },
-  {
-    "nom_prod": "calzas",
-    "stock": 5
-  },
-  {
-    "nom_prod": "gorras",
-    "stock": 3
-  },
-  {
-    "nom_prod": "zapatillas",
-    "stock": 2
-  },
-  {
-    "nom_prod": "buzos",
-    "stock": 6
-  },
-  {
-    "nom_prod": "calzas",
-    "stock": 3
-  }
-]
+{
+  "products": [
+    {
+      "nom_prod": "zapatillas",
+      "stock": 10
+    },
+    {
+      "nom_prod": "remeras",
+      "stock": 20
+    },
+    {
+      "nom_prod": "calzas",
+      "stock": 5
+    },
+    {
+      "nom_prod": "gorras",
+      "stock": 3
+    },
+    {
+      "nom_prod": "zapatillas",
+      "stock": 2
+    },
+    {
+      "nom_prod": "buzos",
+      "stock": 6
+    },
+    {
+      "nom_prod": "calzas",
+      "stock": 3
+    }
+  ]
+}
